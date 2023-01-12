@@ -1,14 +1,11 @@
 .jumbotron {
     margin-bottom: 5rem;
-    margin-top: -50px;
-    background: rgb(183, 255, 247);
-    background: linear-gradient(
-        274deg,
-        rgba(183, 255, 247, 1) 0%,
-        rgba(238, 255, 247, 1) 35%,
-        rgba(238, 255, 247, 1) 54%,
-        rgba(165, 236, 255, 1) 100%
+    background-color: white; /* For browsers that do not support gradients */
+    background-image: linear-gradient(
+        to right,
+        rgba(158, 203, 255, 0.114),
+        rgba(255, 223, 223, 0.114)
     );
-    opacity: 50px;
-    height: 520px;
+    margin-top: -50px;
+    /* height: 500px; */
 }

@@ -6,6 +6,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -39,13 +41,25 @@
         </div>
     </nav>
 
-    <div class="container-fluid jumbotron">
-        <div class="row">
-            <div class="col-lg-6 ">
-                lsmldfmlsdm
+    <div class="container-fluid jumbotron h-100">
+        <div class="row justify-content-center text-center">
+            <div class="col-md-6">
+                <div class="px-2 m-5 p-5 mt-5">
+                    <h2 class="fs-2 text-start text-dark font-normal" style="margin-top: 100px;">
+                        Fullstack Web &
+                        Mobile Developer
+                    </h2>
+                    <p class="fs-6 text-start mt-2">
+                        <strong>Apa arti Fullstack</strong> - <q>Belajar menjadi Fullstack Web & Mobile Developer dalam
+                            13 Minggu dengan mentor profesional, kurikulum ter-update, kesempatan kerja di 270+
+                            perusahaan.</q>.
+                    </p>
+                </div>
             </div>
-            <div class="col-lg-6">
-                lsmldfmlsdm
+            <div class="col-md-6">
+                <div class="px-5 m-5 p-5 mt-2">
+                    <img src="{{ asset('gambar/foto1.png') }}" alt="fullstack web" class="w-100 img-fluid shadow">
+                </div>
             </div>
         </div>
     </div>
