@@ -18,7 +18,7 @@
 
 </head>
 
-<body>
+<body data-bs-spy="scroll" data-bs-offset="15" data-bs-target="#myScrollspy">
     <nav class="navbar navbar-expand-lg navbar-light bg-secondary shadow-sm p-3 mb-5 bg-body rounded-3 sticky-lg-top">
         <div class="container">
             <a class="navbar-brand" href="#">Online Course</a>
@@ -64,42 +64,32 @@
         </div>
     </div>
 
-
-
-
-
-    <nav id="navbar-example3" class="navbar navbar-light bg-light flex-column align-items-stretch p-3">
-        <a class="navbar-brand" href="#">Navbar</a>
-        <nav class="nav nav-pills flex-column">
-            <a class="nav-link" href="#item-1">Item 1</a>
-            <nav class="nav nav-pills flex-column">
-                <a class="nav-link ms-3 my-1" href="#item-1-1">Item 1-1</a>
-                <a class="nav-link ms-3 my-1" href="#item-1-2">Item 1-2</a>
-            </nav>
-            <a class="nav-link" href="#item-2">Item 2</a>
-            <a class="nav-link" href="#item-3">Item 3</a>
-            <nav class="nav nav-pills flex-column">
-                <a class="nav-link ms-3 my-1" href="#item-3-1">Item 3-1</a>
-                <a class="nav-link ms-3 my-1" href="#item-3-2">Item 3-2</a>
-            </nav>
-        </nav>
-    </nav>
-
-    <div data-bs-spy="scroll" data-bs-target="#navbar-example3" data-bs-offset="0" tabindex="0">
-        <h4 id="item-1">Item 1</h4>
-        <p>...</p>
-        <h5 id="item-1-1">Item 1-1</h5>
-        <p>...</p>
-        <h5 id="item-1-2">Item 1-2</h5>
-        <p>...</p>
-        <h4 id="item-2">Item 2</h4>
-        <p>...</p>
-        <h4 id="item-3">Item 3</h4>
-        <p>...</p>
-        <h5 id="item-3-1">Item 3-1</h5>
-        <p>...</p>
-        <h5 id="item-3-2">Item 3-2</h5>
-        <p>...</p>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3" id="myScrollspy">
+                <div class="list-group">
+                    <a class="list-group-item list-group-item-action active" href="#section1">Section One</a>
+                    <a class="list-group-item list-group-item-action active" href="#section2">Section Two</a>
+                    <a class="list-group-item list-group-item-action active" href="#section3">Section Three</a>
+                </div>
+            </div>
+            <div class="col-sm-9">
+                <div id="section1">
+                    <h2>Section One</h2>
+                    <p>This is section one content...</p>
+                </div>
+                <hr>
+                <div id="section2">
+                    <h2>Section Two</h2>
+                    <p>This is section two content...</p>
+                </div>
+                <hr>
+                <div id="section3">
+                    <h2>Section Three</h2>
+                    <p>This is section three content...</p>
+                </div>
+            </div>
+        </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
