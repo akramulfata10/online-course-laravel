@@ -54,7 +54,9 @@
                     <li><a class="nav-link scrollto" href="#course">Course</a></li>
                     <li><a class="nav-link scrollto" href="#team">Team</a></li>
                     <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                    <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
+                    <li><a class="getstarted scrollto" href="#about">Login</a></li>
+                    <li><a class="getstarted scrollto" href="#about">Register</a></li>
+
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav>
@@ -64,7 +66,6 @@
 
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex align-items-center">
-
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1"
@@ -93,17 +94,16 @@
 
                 <div class="section-title">
                     <h2>Services</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p>Keunggulan Program Fullstack Web & Mobile Developer Pijar Camp</p>
                 </div>
 
                 <div class="row">
                     <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                            <h4><a href="">Lorem Ipsum</a></h4>
-                            <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                            <h4><a href="">Kurikulum terupdate</a></h4>
+                            <p>Kamu akan belajar coding dengan kurikulum industri secara intensif yang diajarkan
+                                langsung oleh mentor berkompeten di bidangnya.</p>
                         </div>
                     </div>
 
@@ -111,8 +111,9 @@
                         data-aos-delay="200">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-file"></i></div>
-                            <h4><a href="">Sed ut perspici</a></h4>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                            <h4><a href="">Self & Growth Mindset</a></h4>
+                            <p>Kamu akan didukung secara mindset dan motivasi untuk lebih mengenal diri dan mudah
+                                beradaptasi di lingkungan kerja.</p>
                         </div>
                     </div>
 
@@ -120,8 +121,9 @@
                         data-aos-delay="300">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
-                            <h4><a href="">Magni Dolores</a></h4>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                            <h4><a href="">Pembekalan Karir</a></h4>
+                            <p>Kamu akan dilatih untuk persiapan karir dengan matang, dari membuat CV hingga simulasi
+                                interview pekerjaan.</p>
                         </div>
                     </div>
 
@@ -129,8 +131,9 @@
                         data-aos-delay="400">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-layer"></i></div>
-                            <h4><a href="">Nemo Enim</a></h4>
-                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                            <h4><a href="">Disalurkan Kerja</a></h4>
+                            <p>Tidak hanya belajar, kamu juga berkesempatan untuk membangun karir dengan 270+ perusahaan
+                                rekanan kami.</p>
                         </div>
                     </div>
 
@@ -144,13 +147,10 @@
 
                 <div class="section-title">
                     <h2>Cource</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p>Keunggulan Program Fullstack Web & Mobile Developer Pijar Camp</p>
                 </div>
 
                 <div class="row course-container" data-aos="fade-up" data-aos-delay="200">
-
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid"
                                 alt=""></div>
@@ -189,85 +189,6 @@
                                     class="bx bx-link"></i></a>
                         </div>
                     </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid"
-                                alt=""></div>
-                        <div class="portfolio-info">
-                            <h4>Card 2</h4>
-                            <p>Card</p>
-                            <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery"
-                                class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
-                                    class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid"
-                                alt=""></div>
-                        <div class="portfolio-info">
-                            <h4>Web 2</h4>
-                            <p>Web</p>
-                            <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery"
-                                class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
-                                    class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid"
-                                alt=""></div>
-                        <div class="portfolio-info">
-                            <h4>App 3</h4>
-                            <p>App</p>
-                            <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery"
-                                class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
-                                    class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid"
-                                alt=""></div>
-                        <div class="portfolio-info">
-                            <h4>Card 1</h4>
-                            <p>Card</p>
-                            <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery"
-                                class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
-                                    class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid"
-                                alt=""></div>
-                        <div class="portfolio-info">
-                            <h4>Card 3</h4>
-                            <p>Card</p>
-                            <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery"
-                                class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
-                                    class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid"
-                                alt=""></div>
-                        <div class="portfolio-info">
-                            <h4>Web 3</h4>
-                            <p>Web</p>
-                            <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery"
-                                class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
-                                    class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-
                 </div>
 
             </div>
@@ -279,9 +200,12 @@
 
                 <div class="section-title">
                     <h2>Team</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p>Kelas intensif menjadi Fullstack Website & Mobile Developer selama 3 bulan yang akan mempelajari
+                        JavaScript, Express.js, React.js, & React Native serta mempelajari pengembangan karakter talent
+                        agar siap bekerja. Selain itu talent akan disalurkan ke perusahaan rekanan Pijar Camp setelah
+                        menyelesaikan kelasnya.
+                        Menguasai JavaScript, Express.js, React.js, dan React Native memiliki 3 portfolio project dengan
+                        real-world scenario, serta pengembangan karakter</p>
                 </div>
 
                 <div class="row">
@@ -291,12 +215,11 @@
                             <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid"
                                     alt=""></div>
                             <div class="member-info">
-                                <h4>Walter White</h4>
-                                <span>Chief Executive Officer</span>
-                                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                                <h4>Akramul Fata</h4>
+                                <span>software engenering</span>
+                                <p>beliau expert di web </p>
                                 <div class="social">
                                     <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
                                     <a href=""><i class="ri-instagram-fill"></i></a>
                                     <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
                                 </div>
@@ -309,55 +232,17 @@
                             <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid"
                                     alt=""></div>
                             <div class="member-info">
-                                <h4>Sarah Jhonson</h4>
-                                <span>Product Manager</span>
-                                <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                                <h4>Aidil Fitrah</h4>
+                                <span>Desain Graphic</span>
+                                <p>Beliau expert di bagian desain grafis</p>
                                 <div class="social">
                                     <a href=""><i class="ri-twitter-fill"></i></a>
                                     <a href=""><i class="ri-facebook-fill"></i></a>
                                     <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
                                 </div>
                             </div>
                         </div>
                     </div>
-
-                    <div class="col-lg-6 mt-4">
-                        <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
-                            <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid"
-                                    alt=""></div>
-                            <div class="member-info">
-                                <h4>William Anderson</h4>
-                                <span>CTO</span>
-                                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
-                                <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-6 mt-4">
-                        <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
-                            <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid"
-                                    alt=""></div>
-                            <div class="member-info">
-                                <h4>Amanda Jepson</h4>
-                                <span>Accountant</span>
-                                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
-                                <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
 
             </div>
@@ -369,9 +254,7 @@
 
                 <div class="section-title">
                     <h2>Contact</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p>jika ingin menghubungkan saya silahkan hubungi saya</p>
                 </div>
 
                 <div class="row">
@@ -381,25 +264,20 @@
                             <div class="address">
                                 <i class="bi bi-geo-alt"></i>
                                 <h4>Location:</h4>
-                                <p>A108 Adam Street, New York, NY 535022</p>
+                                <p>aceh , indonesia</p>
                             </div>
 
                             <div class="email">
                                 <i class="bi bi-envelope"></i>
                                 <h4>Email:</h4>
-                                <p>info@example.com</p>
+                                <p>akramulfata10@gmail.com</p>
                             </div>
 
                             <div class="phone">
                                 <i class="bi bi-phone"></i>
                                 <h4>Call:</h4>
-                                <p>+1 5589 55488 55s</p>
+                                <p>+6289515128855</p>
                             </div>
-
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621"
-                                frameborder="0" style="border:0; width: 100%; height: 290px;"
-                                allowfullscreen></iframe>
                         </div>
 
                     </div>
@@ -438,46 +316,42 @@
                 </div>
 
             </div>
-        </section><!-- End Contact Section -->
-
-    </main><!-- End #main -->
-
-    <!-- ======= Footer ======= -->
+        </section>
+    </main>
     <footer id="footer">
         <div class="footer-top">
             <div class="container">
                 <div class="row">
 
                     <div class="col-lg-3 col-md-6 footer-contact">
-                        <h3>Arsha</h3>
+                        <h3>Akramul Fata</h3>
                         <p>
-                            A108 Adam Street <br>
-                            New York, NY 535022<br>
-                            United States <br><br>
-                            <strong>Phone:</strong> +1 5589 55488 55<br>
-                            <strong>Email:</strong> info@example.com<br>
+                            fata<br>
+                            indonesia, Aceh<br>
+                            <strong>Phone:</strong> +6289515128855<br>
+                            <strong>Email:</strong> akramulfata10@gmail.com<br>
                         </p>
                     </div>
 
                     <div class="col-lg-3 col-md-6 footer-links">
                         <h4>Useful Links</h4>
                         <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/">Home</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/">About us</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/">Services</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/">Terms of service</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/">Privacy policy</a></li>
                         </ul>
                     </div>
 
                     <div class="col-lg-3 col-md-6 footer-links">
                         <h4>Our Services</h4>
                         <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/">Web Design</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/">Web Development</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/">Product Management</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/">Marketing</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="/">Graphic Design</a></li>
                         </ul>
                     </div>
 
@@ -485,28 +359,27 @@
                         <h4>Our Social Networks</h4>
                         <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
                         <div class="social-links mt-3">
-                            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                            <a href="https://github.com/akramulfata10" class="twitter"><i
+                                    class="bx bxl-twitter"></i></a>
                             <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
                             <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
                             <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
                         </div>
                     </div>
-
                 </div>
             </div>
         </div>
 
         <div class="container footer-bottom clearfix">
             <div class="copyright">
-                &copy; Copyright <strong><span>Arsha</span></strong>. All Rights Reserved
+                &copy; Copyright <strong><span>Akramul Fata </span></strong>. All Rights Reserved
             </div>
             <div class="credits">
                 <!-- All the links in the footer should remain intact. -->
                 <!-- You can delete the links only if you purchased the pro version. -->
                 <!-- Licensing information: https://bootstrapmade.com/license/ -->
                 <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ -->
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                Designed by <a href="https://github.com/akramulfata10">BootstrapMade</a>
             </div>
         </div>
     </footer><!-- End Footer -->
