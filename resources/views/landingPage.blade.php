@@ -150,47 +150,38 @@
                     <p>Keunggulan Program Fullstack Web & Mobile Developer Pijar Camp</p>
                 </div>
 
-                <div class="row course-container" data-aos="fade-up" data-aos-delay="200">
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid"
-                                alt=""></div>
+                <div class="row course-container text-center" data-aos="fade-up" data-aos-delay="200">
+                    <div class="col-lg-6 mt-2 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-info">
-                            <h4>App 1</h4>
-                            <p>App</p>
-                            <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
-                                class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
-                                    class="bx bx-link"></i></a>
+                            <h4>Laravel (judul)</h4>
+                            <p>App (description vidio)</p>
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" preload="none"
+                                    src="" allowfullscreen></iframe>
+                            </div>
                         </div>
                     </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid"
-                                alt=""></div>
+                    <div class="col-lg-6 mt-2 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-info">
-                            <h4>Web 3</h4>
-                            <p>Web</p>
-                            <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
-                                class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
-                                    class="bx bx-link"></i></a>
+                            <h4>Laravel (judul)</h4>
+                            <p>App (description vidio)</p>
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" preload="none"
+                                    src="" allowfullscreen></iframe>
+                            </div>
                         </div>
                     </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid"
-                                alt=""></div>
+                    <div class="col-lg-6 mt-2 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-info">
-                            <h4>App 2</h4>
-                            <p>App</p>
-                            <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
-                                class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
-                                    class="bx bx-link"></i></a>
+                            <h4>Laravel (judul)</h4>
+                            <p>App (description vidio)</p>
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" preload="none"
+                                    src="" allowfullscreen></iframe>
+                            </div>
                         </div>
                     </div>
                 </div>
-
             </div>
         </section><!-- End Portfolio Section -->
 
@@ -217,7 +208,7 @@
                             <div class="member-info">
                                 <h4>Akramul Fata</h4>
                                 <span>software engenering</span>
-                                <p>beliau expert di web </p>
+                                <p>beliau expert di web dan sedang mengembangkan online source sendiri </p>
                                 <div class="social">
                                     <a href=""><i class="ri-twitter-fill"></i></a>
                                     <a href=""><i class="ri-instagram-fill"></i></a>
@@ -258,7 +249,6 @@
                 </div>
 
                 <div class="row">
-
                     <div class="col-lg-5 d-flex align-items-stretch">
                         <div class="info">
                             <div class="address">
@@ -279,7 +269,6 @@
                                 <p>+6289515128855</p>
                             </div>
                         </div>
-
                     </div>
 
                     <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
