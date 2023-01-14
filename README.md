@@ -4,15 +4,20 @@ ini website sederhana yang saya buat karena terinspirasi dari website seperti ud
 
 ## dokumentasi laravel yang digunakan
 -gates and policy untuk multi user 
+<br>
 -validation
--form request 
+<br>
+-form request
+<br>
 -route resource 
--membuat api khusus untuk kirim ke frontend 
+<br>
 -dahsboard admin
+<br>
 -frontend
 
 
-
-
-
 ## teknologi yang digunakan 
+-laravel 
+<br>
+-bootstrap
+<br>
