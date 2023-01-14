@@ -144,7 +144,6 @@
         <!-- ======= Portfolio Section ======= -->
         <section id="course" class="course">
             <div class="container" data-aos="fade-up">
-
                 <div class="section-title">
                     <h2>Cource</h2>
                     <p>Keunggulan Program Fullstack Web & Mobile Developer Pijar Camp</p>
@@ -155,30 +154,22 @@
                         <div class="portfolio-info">
                             <h4>Laravel (judul)</h4>
                             <p>App (description vidio)</p>
-                            <div class="embed-responsive embed-responsive-16by9">
-                                <iframe class="embed-responsive-item" preload="none"
-                                    src="" allowfullscreen></iframe>
-                            </div>
+                            <img src="{{ asset('gambar/laravel.png') }}" alt="laravel source" class="img-fluid w-75">
                         </div>
                     </div>
                     <div class="col-lg-6 mt-2 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-info">
                             <h4>Laravel (judul)</h4>
                             <p>App (description vidio)</p>
-                            <div class="embed-responsive embed-responsive-16by9">
-                                <iframe class="embed-responsive-item" preload="none"
-                                    src="" allowfullscreen></iframe>
-                            </div>
+                            <img src="{{ asset('gambar/laravel.png') }}" alt="laravel source" class="img-fluid w-75">
                         </div>
                     </div>
                     <div class="col-lg-6 mt-2 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-info">
                             <h4>Laravel (judul)</h4>
                             <p>App (description vidio)</p>
-                            <div class="embed-responsive embed-responsive-16by9">
-                                <iframe class="embed-responsive-item" preload="none"
-                                    src="" allowfullscreen></iframe>
-                            </div>
+                            <img src="{{ asset('gambar/laravel.png') }}" alt="laravel source"
+                                class="img-fluid w-75">
                         </div>
                     </div>
                 </div>
@@ -210,9 +201,11 @@
                                 <span>software engenering</span>
                                 <p>beliau expert di web dan sedang mengembangkan online source sendiri </p>
                                 <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
-                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                    <a href="https://api.whatsapp.com/send/?phone=%2B6289515128855&text&app_absent=0"><i
+                                            class="bi bi-whatsapp"></i></a>
+                                    <a href="https://github.com/akramulfata10"><i class="bi bi-github"></i></a>
+                                    <a href="https://www.instagram.com/akramullfata/"><i
+                                            class="bi bi-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -226,10 +219,13 @@
                                 <h4>Aidil Fitrah</h4>
                                 <span>Desain Graphic</span>
                                 <p>Beliau expert di bagian desain grafis</p>
+
                                 <div class="social">
-                                    <a href=""><i class="ri-twitter-fill"></i></a>
-                                    <a href=""><i class="ri-facebook-fill"></i></a>
-                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href="https://api.whatsapp.com/send/?phone=%2B6282276731536&text&app_absent=0"><i
+                                            class="bi bi-whatsapp"></i></a>
+                                    <a href="https://github.com/Aidilbogek7888"><i class="bi bi-github"></i></a>
+                                    <a href="https://www.instagram.com/aidilfitrah.22/"><i
+                                            class="bi bi-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -348,11 +344,10 @@
                         <h4>Our Social Networks</h4>
                         <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
                         <div class="social-links mt-3">
-                            <a href="https://github.com/akramulfata10" class="twitter"><i
-                                    class="bx bxl-twitter"></i></a>
-                            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                            <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                            <a href="https://api.whatsapp.com/send/?phone=%2B6289515128855&text&app_absent=0"><i
+                                    class="bi bi-whatsapp"></i></a>
+                            <a href="https://github.com/akramulfata10"><i class="bi bi-github"></i></a>
+                            <a href="https://www.instagram.com/akramullfata/"><i class="bi bi-instagram"></i></a>
                         </div>
                     </div>
                 </div>
