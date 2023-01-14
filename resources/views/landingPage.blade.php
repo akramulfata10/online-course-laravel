@@ -194,7 +194,7 @@
 
                     <div class="col-lg-6">
                         <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-                            <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid"
+                            <div class="pic"><img src="{{ asset('gambar/fata.jpg') }}" class="img-fluid"
                                     alt=""></div>
                             <div class="member-info">
                                 <h4>Akramul Fata</h4>
@@ -213,7 +213,7 @@
 
                     <div class="col-lg-6 mt-4 mt-lg-0">
                         <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
-                            <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid"
+                            <div class="pic"><img src="{{ asset('gambar/aidil.jpg') }}" class="img-fluid"
                                     alt=""></div>
                             <div class="member-info">
                                 <h4>Aidil Fitrah</h4>
