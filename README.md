@@ -11,10 +11,6 @@ ini website sederhana yang saya buat karena terinspirasi dari website seperti ud
 <br>
 -route resource 
 <br>
--dahsboard admin
-<br>
--frontend
-
 
 ## teknologi yang digunakan 
 -laravel 
