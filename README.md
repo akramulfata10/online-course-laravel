@@ -19,3 +19,13 @@ ini website sederhana yang saya buat karena terinspirasi dari website seperti ud
 <br>
 -bootstrap
 <br>
+
+
+
+untuk template frontend nya saya donwload di link di bawah 
+/**
+* Template Name: Arsha - v4.10.0
+* Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
