@@ -41,7 +41,9 @@ class User extends Authenticatable {
         'email_verified_at' => 'datetime',
     ];
 
-    public function courses() {
-        return $this->hasMany(Course::class);
+    // satu user bisa memiliki banyak channel
+    public function channels() {
+        return $this->hasMany(Channel::class);
     }
+
 }
